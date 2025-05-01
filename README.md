@@ -50,7 +50,7 @@ As a data analyst at an EdTech startup, your responsibility is to analyze and vi
 - **DAX** for calculated columns, KPIs, and measures
 - **Data Cleaning & Preprocessing** using Power Query
 - **Advanced Visualizations**: Heatmaps, slicers, stacked visuals, trend lines
-- **EdTech-specific metrics**: Engagement, accessibility, skill relevance
+- **EdTech-specific metrics**: Engagement, accessibility, skill relevance.
 
 
 
